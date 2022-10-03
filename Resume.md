@@ -13,6 +13,6 @@
 - Working out
 - Watching T.V
 
-## typing
-- keys learned
+## Typing
+- Keys Learned
   - J, F, U, R, space,
