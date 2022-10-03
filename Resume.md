@@ -12,3 +12,7 @@
 - Playing video games
 - Working out
 - Watching T.V
+
+## typing
+- keys learned
+  - J, F, U, R, space,
