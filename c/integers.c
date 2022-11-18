@@ -11,7 +11,7 @@ int main() {
 	x = 12/3 - 20;
 	printf("%i\n", x);
 	x = 25/4;
-	printf("%i\n", x);
+	printf("%i\n", :);
 
 	return 0;
 }
